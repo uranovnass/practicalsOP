@@ -1,0 +1,8 @@
+module=auth level=ERROR message=login failed
+module=auth level=ERROR message=wrong password
+module=database level=WARN message=slow query
+module=api level=ERROR message=request failed
+module=auth level=WARN message=weak password
+module=database level=ERROR message=connection failed
+module=api level=ERROR message=timeout
+module=auth level=ERROR message=session failed

@@ -1,0 +1,6 @@
+module=auth level=ERROR message=login failed
+module=api level=WARN message=slow request
+module=api level=ERROR message=server error
+module=database level=ERROR message=connection lost
+module=database level=WARN message=slow query
+module=auth level=ERROR message=access denied
